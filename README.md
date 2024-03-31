@@ -6,6 +6,10 @@
 
 ![Abdala GitHub stats](https://github-readme-stats.vercel.app/api?username=aabdalaa&show_icons=true&theme=dracula&count_private=true)
 
+## Linguagens usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabdalaa&hide_progress=true)
+
 
 ## Tecnologias que eu uso no meu dia
 
