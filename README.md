@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aabdala_/)
 
-[![aabdalaa GitHub stats](https://github-readme-stats.vercel.app/api? username=aabdala&show_icons=true&theme=transparent)
+![Abdala GitHub stats](https://github-readme-stats.vercel.app/api?username=aabdalaa&show_icons=true&theme=dracula&count_private=true)
 
 
 ## Tecnologias que eu uso no meu dia
