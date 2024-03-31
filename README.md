@@ -1,7 +1,6 @@
 ### Eae, eu sou o André Abdala!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?
-style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aabdala_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aabdala_/)
 
 [![aabdalaa GitHub stats](https://github-readme-stats.vercel.app/api? username=aabdala&show_icons=true&theme=transparent)
 
