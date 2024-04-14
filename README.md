@@ -23,4 +23,4 @@
 
 ## Linguagens usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabdalaa&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aabdalaa&hide_progress=false)
