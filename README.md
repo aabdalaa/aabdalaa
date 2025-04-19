@@ -49,8 +49,7 @@ Sou um desenvolvedor que adora **resolver problemas com código** e criar experi
 
 ---
 
-### 🐍 Snake Game das contribuições
-
+### 💻 Minhas Contribuições
 <p align="center">
   <img src="https://github.com/aabdalaa/aabdalaa/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
