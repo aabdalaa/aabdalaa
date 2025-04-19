@@ -17,9 +17,9 @@
 
 Sou um desenvolvedor que adora **resolver problemas com código** e criar experiências que impactam de verdade. Trabalho com projetos reais e sempre busco aprender com profundidade, mas de forma simples e prática — como se eu estivesse explicando pra minha versão mais nova.
 
-- 🧱 Foco em projetos com Python, Flask, PostgreSQL, HTML e CSS
-- 🛠️ Construindo interfaces clean, funcionais e com boas práticas
-- 🔒 Segurança, organização e performance sempre no radar
+- 🧱 Foco em projetos com Python, Flask, PostgreSQL, HTML e CSS  
+- 🛠️ Construindo interfaces clean, funcionais e com boas práticas  
+- 🔒 Segurança, organização e performance sempre no radar  
 - 🗣️ Curto automação, inteligência artificial e interações por voz (Jarvis feelings)
 
 ---
@@ -46,6 +46,14 @@ Sou um desenvolvedor que adora **resolver problemas com código** e criar experi
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aabdalaa&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabdalaa&layout=compact&hide_progress=true&theme=dracula"/>
 </div>
+
+---
+
+### 🐍 Snake Game das contribuições
+
+<p align="center">
+  <img src="https://github.com/aabdalaa/aabdalaa/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
