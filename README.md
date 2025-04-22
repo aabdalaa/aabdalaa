@@ -15,7 +15,7 @@
 
 ### 🧠 Sobre mim
 
-Sou um desenvolvedor que adora **resolver problemas com código** e criar experiências que impactam de verdade. Trabalho com projetos reais e sempre busco aprender com profundidade, mas de forma simples e prática — como se eu estivesse explicando pra minha versão mais nova.
+Sou um desenvolvedor que adora **resolver problemas com código** e criar experiências que impactam de verdade. Trabalho com projetos reais e sempre busco aprender com profundidade, mas de forma simples e prática.
 
 - 🧱 Foco em projetos com Python, Flask, PostgreSQL, HTML e CSS  
 - 🛠️ Construindo interfaces clean, funcionais e com boas práticas  
