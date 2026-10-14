@@ -1,7 +1,7 @@
 <h1 align="center">Fala dev! Eu sou o André Abdala 👨‍💻</h1>
 
 <p align="center">
-  💡 <b>Software Engineer & Desenvolvedor Full-Stack</b> | Governança de TI, Automação, IA e Cloud.<br/>
+  💡 <b>Desenvolvedor Back-end</b> | Python, DevOps, Infraestrutura e IA.<br/>
   🚀 Transformando problemas complexos em sistemas limpos, modernos e de alta performance.<br/>
   🌌 Ecossistema <b>Entropy</b>.
 </p>
@@ -10,17 +10,17 @@
   <a href="https://www.linkedin.com/in/andreabdala"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/aabdalaa"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/_aabdala_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:andreabdala.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:andreluizabdalacosta@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 🧠 Sobre Mim
 
-Sou um desenvolvedor focado em **engenharia de software, automação corporativa e experiência do usuário**. Atuo desde a concepção de aplicações desktop corporativas com instaladores nativos para Windows até rotinas de automação, microsserviços e infraestrutura como código (IaC).
+Sou um desenvolvedor focado em **soluções escaláveis, automação corporativa e experiência do usuário**. Atuo desde a concepção de aplicações desktop corporativas até rotinas de automação, microsserviços e infraestrutura como código (IaC).
 
 - 🏢 **Ecossistema ENTROPY:** Soluções pensadas para durabilidade, robustez técnica, minimalismo e padrões visuais corporativos modernos (Fluent Design).
-- 🧱 **Qualidade & Segurança:** Foco em separação de responsabilidades, arquitetura limpa, documentação técnica exaustiva e governança de TI.
+- 🧱 **Qualidade & Segurança:** Foco em separação de responsabilidades, arquitetura limpa, documentação técnica e governança de TI.
 - 🤖 **IA & Automação:** Desenvolvimento de assistentes virtuais inteligentes com processamento de voz e automação de sistemas operacionais.
 
 ---
@@ -31,18 +31,6 @@ Sou um desenvolvedor focado em **engenharia de software, automação corporativa
 | :--- | :--- | :--- |
 | 📁 **[Entropy FolderWorks](https://github.com/aabdalaa/FolderWorks)** | Suíte corporativa desktop de automação e governança de pastas em redes Windows Domain / Active Directory. | `TypeScript` `Electron` `React` `TailwindCSS` `Win32 C#` `Instalador MSI v3.0.0` |
 | 🎙️ **[Assistentes Virtuais (Jarvis & Edith)](https://github.com/aabdalaa/Assistentes-virtuais)** | Assistentes multifuncionais com reconhecimento de voz contínuo, síntese de áudio nativa e interface gráfica. | `Python` `PyQt5` `SpeechRecognition` `pyttsx3` `WMI` |
-
----
-
-### 📚 Monorepos de Estudos & Formação Técnica Contínua
-
-Para manter o portfólio limpo e estruturado, minha formação técnica e projetos acadêmicos estão consolidados em **Monorepos Temáticos**:
-
-* 🐍 **[estudos-python](https://github.com/aabdalaa/estudos-python)** — 115+ exercícios práticos do Curso em Vídeo (Gustavo Guanabara), POO avançada com Luiz Otávio Miranda, Santander Bootcamp, HackerRank e Flask.
-* 🌐 **[estudos-web-frontend](https://github.com/aabdalaa/estudos-web-frontend)** — Projetos acadêmicos da **ETEC Basilides de Godoy**, aulas da **Faculdade UNICID**, Imersão Dev Alura e JavaScript ES6+.
-* ☁️ **[estudos-devops-cloud](https://github.com/aabdalaa/estudos-devops-cloud)** — Containers Docker, provisionamento declarativo com Terraform, automação Shell Script para Apache e laboratórios Linux.
-* ☕ **[estudos-java](https://github.com/aabdalaa/estudos-java)** — Fundamentos com Gustavo Guanabara e POO avançada com Nelio Alves.
-* 🗄️ **[estudos-database](https://github.com/aabdalaa/estudos-database)** — Modelagem relacional, queries avançadas e scripts SQL em MySQL com André Iacono.
 
 ---
 
